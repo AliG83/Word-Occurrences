@@ -24,8 +24,7 @@ package edu.seminolestate.Module10_Ali;
 		 * @param args holds the command line arguments
 		 */
 	    public static void main(String[] args) {
-			Betancourt_module10_word_occurrence t = new Betancourt_module10_word_occurrence();
-			t.countNumberOfWord(); //output word frequencies
+			
 		
 	    
 	    /**
