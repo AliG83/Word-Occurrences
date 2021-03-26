@@ -35,7 +35,7 @@ package edu.seminolestate.Module10_Ali;
 		    try { 
 		    	//reading through and figuring out the number of each word
 		        BufferedReader in = new BufferedReader(
-		        new FileReader("C:/Users/GlenAli/Desktop/Macbeth_word_occurrence.txt"));
+		        new FileReader("http://shakespeare.mit.edu/macbeth/full.html"));
 		        String str;
 
 		        while ((str = in.readLine()) != null) { 
